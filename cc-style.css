@@ -1,0 +1,67 @@
+header{
+    background-color: grey;
+   
+
+}
+header h1{
+    text-align: center;
+    color: white;
+    padding: 70px;
+    font-size: 70px;
+}
+header p{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+  
+   
+}
+
+ ul li{
+    float: left;
+}
+ul li.right{
+    float: right;
+}
+
+li a{
+
+    background-color:black;
+    color: white;
+    display: block;
+    padding: 15px 20px ;
+    text-decoration: none;
+}
+
+section{
+    background-color: white;
+    padding: 40px;
+    height: 150px;
+}
+article{
+    float: left;
+    padding: 30px ;
+    height: 200px;
+    width: 248px;
+}
+article img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    padding: 30PX;
+}
+article button{
+    background-color: royalblue;
+    color: white;
+}
+
